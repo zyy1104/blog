@@ -1,0 +1,15 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh" 
+  },
+  "devDependencies": {
+    "vuepress": "1.2.0",
+    "vuepress-theme-reco": "1.1.1"
+  },
+  "description": "Girls'journey is the sea of stars, not the love of the world"
+}
