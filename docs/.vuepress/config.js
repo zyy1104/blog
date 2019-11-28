@@ -1,7 +1,6 @@
 module.exports = {
   "title": "ares9y",
   "description": "Girls'journey is the sea of stars, not the love of the world",
-  "dest": "public",
   "head": [
     [
       "link",
@@ -100,5 +99,7 @@ module.exports = {
   },
   "markdown": {
     "lineNumbers": true
-  }
+  },
+  "base": "/blog/",
+  "dest": "./docs/.vuepress/dist"
 }
