@@ -1,12 +1,12 @@
 module.exports = {
-  "title": "ares9y",
-  "description": "Girls'journey is the sea of stars, not the love of the world",
+  "title": "Zoraya",
+  "description": "我会继续追赶您的。",
   "head": [
     [
       "link",
       {
         "rel": "icon",
-        "href": "/bitbug_favicon.ico"
+        "href": "/gruel.ico"
       }
     ],
     [
@@ -25,10 +25,19 @@ module.exports = {
     //   color: '#42b983', // 登录页动画球的颜色
     //   lineColor: '#42b983' // 登录页动画线的颜色
     // },
-    valineConfig: {
-      appId: 'BdOGuCiJF2RaN8LqcbGrCqej-gzGzoHsz',// your appId
-      appKey: '3Rng5yi0gNDA9x58IUDU5uhl', // your appKey
+    "valineConfig": {
+      "appId": 'BdOGuCiJF2RaN8LqcbGrCqej-gzGzoHsz',// your appId
+      "appKey": '3Rng5yi0gNDA9x58IUDU5uhl', // your appKey
     },
+    "themePicker": {
+		color1: '#E16B8C', //梅红
+		color2: '#BF6766', //砖红
+		color3: '#E2943B', //黄
+		color4: '#A28C37', //绿
+		color5: '#00AA90', //青
+		color6: '#58B2DC', //蓝
+		color7: '#986DB2' //紫
+	},
     "nav": [
       {
         "text": "首页",
@@ -45,13 +54,13 @@ module.exports = {
         "icon": "reco-message",
         "items": [
           // {
-          //   "text": "NPM",
-          //   "link": "https://www.npmjs.com/~reco_luan",
-          //   "icon": "reco-npm"
+          //   "text": "简历",
+          //   "link": "/personalInfo/",
+          //   "icon": "reco-blog"
           // },
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/zyy1104",
             "icon": "reco-github"
           },
           // {
@@ -69,11 +78,16 @@ module.exports = {
           //   "link": "https://www.cnblogs.com/luanhewei/",
           //   "icon": "reco-bokeyuan"
           // },
-          {
-            "text": "WeChat",
-            "link": "https://mp.weixin.qq.com/s/mXFqeUTegdvPliXknAAG_A",
-            "icon": "reco-wechat"
-          }
+          // {
+          //   "text": "QQ",
+          //   "link": "https://s2.ax1x.com/2019/11/28/QifbrV.jpg",
+          //   "icon": "reco-qq"
+          // },
+          // {
+          //   "text": "WeChat",
+          //   "link": "https://s2.ax1x.com/2019/11/28/QiWbAe.jpg",
+          //   "icon": "reco-wechat"
+          // }
         ]
       }
     ],
@@ -88,12 +102,12 @@ module.exports = {
         "text": "标签"
       }
     },
-    "logo": "/head.png",
+    "logo": "/xz.jpg",  //左侧logo
     "search": true,
     "searchMaxSuggestions": 10,
     "sidebar": "auto",
     "lastUpdated": "Last Updated",
-    "author": "ares9y",
+    "author": "Zoraya",
     // "record": "xxxx",
     "startYear": "2017"
   },

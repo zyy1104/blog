@@ -1,7 +1,7 @@
 ---
 home: true
-faceImage: '/head.png'
-bgImage: '/bizhi.jpg'
+faceImage: '/web.jpg' #右侧头像·
+bgImage: '/bg.jpg'  #背景图
 heroImage: /hero.png
 heroImageStyle: {
   maxWidth: '600px',
@@ -11,9 +11,7 @@ heroImageStyle: {
   background: '#fff',
   borderRadius: '1rem',
 }
-isShowTitleInHome: true
-actionText: Guide
-actionLink: /views/other/guide
+isShowTitleInHome: false
 features:
 - title: Yesterday
   details: 开发一款看着开心、写着顺手的 vuepress 博客主题
