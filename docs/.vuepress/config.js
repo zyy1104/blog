@@ -1,6 +1,6 @@
 module.exports = {
-  "title": "Zoraya",
-  "description": "我会继续追赶您的。",
+  "title": "白熊有信仰",
+  "description": "脑子是个好东西",
   "head": [
     [
       "link",
@@ -107,7 +107,7 @@ module.exports = {
     "searchMaxSuggestions": 10,
     "sidebar": "auto",
     "lastUpdated": "Last Updated",
-    "author": "Zoraya",
+    "author": "Yuri",
     // "record": "xxxx",
     "startYear": "2017"
   },

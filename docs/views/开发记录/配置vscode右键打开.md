@@ -3,8 +3,8 @@ title: 配置vscode右键打开
 date: 2019-12-28
 sidebar: auto
 categories:
-- 爱码士
-author: 菜小粥
+- 开发记录
+author: 白熊
 ---
 
 ## 1、.reg文件形式
