@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "vuepress": "1.2.0",
-    "vuepress-theme-reco": "1.1.1"
+    "vuepress-theme-reco": "1.6.14"
   },
   "description": "Girls'journey is the sea of stars, not the love of the world"
 }
